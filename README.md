@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Bharathsimhareddy18/Bharathsimhareddy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there, I'm Bharath 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Final-Year B.Tech CSE | Production GenAI Engineer**  
+Tirupati, Andhra Pradesh, India • [LinkedIn](https://linkedin.com/in/bharathsimhareddy18) • bharathsimhareddy18@gmail.com
+
+
+</div>
+
+## 🚀 Currently Building
+- **Career AI Agent** - Resume screening + job matching RAG system (FastAPI + MongoDB)
+- **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise (70% cheaper than APIs)
+- **Multi-Agent Systems** - LangGraph/CrewAI for autonomous workflows
