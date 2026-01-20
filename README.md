@@ -13,7 +13,7 @@ Tirupati, Andhra Pradesh, India • [LinkedIn](https://linkedin.com/in/bharathsi
 - **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise (70% cheaper than APIs)
 - **Multi-Agent Systems** - LangGraph/CrewAI for autonomous workflows
 
-##  > Internship Projects (Shipped)
+##  > Worked Internship Projects (Shipped)
 - **RAG Negotiation Chatbot** - MongoDB + Vector DB retriever
 - **Vision Food Quality Checker** - YOLO + LLM 
 - **Agentic Voice Bot** - STT→LLM→TTS pipeline
