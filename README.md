@@ -1,4 +1,3 @@
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathsimhareddy18&show_icons=true&theme=radical&hide=stars,commits&hide_border=true)
 <div align="center">
 
 # Hi there, I'm Bharath 👋
