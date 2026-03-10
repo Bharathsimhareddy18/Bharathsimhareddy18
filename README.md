@@ -8,7 +8,7 @@ Tirupati, Andhra Pradesh • X `@ai_bharath` • [LinkedIn](https://linkedin.com
 </div>
 
 ##  Currently Building
-- **Zero to Production AI Engineer** - Daily production FastAPI/RAG notes from CampusX
+- **Zero to Production AI Engineer** - Daily production AI Engineer notes from CampusX & Krish Naik
 - **Career AI Agent** - Resume + GitHub analysis RAG system (FastAPI + vector DB)
 - **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise deployment
 
