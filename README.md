@@ -2,33 +2,38 @@
 
 # Hi there, I'm Bharath 👋
 
-**Final-Year B.Tech CSE | Production GenAI Engineer**  
-Tirupati, Andhra Pradesh, India • [LinkedIn](https://linkedin.com/in/bharathsimhareddy18) • bharathsimhareddy18@gmail.com
-
+**Final-Year B.Tech AI/ML | Production AI Engineer**  
+Tirupati, Andhra Pradesh • X `@ai_bharath` • [LinkedIn](https://linkedin.com/in/bharathsimhareddy18)
 
 </div>
 
-##  > Currently Building
-- **Career AI Agent** - Resume screening + job matching RAG system (FastAPI + MongoDB)
-- **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise (70% cheaper than APIs)
-- **Multi-Agent Systems** - LangGraph/CrewAI for autonomous workflows
+##  Currently Building
+<p align="center">
+  <a href="https://github.com/Bharathsimhareddy18/zero-to-production-ai-engineer">
+    <img src="https://img.shields.io/badge/Zero%20to%20Production%20AI%20Engineer-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="35">
+  </a>
+</p>
 
-##  > Worked Internship Projects (Shipped)
-- **RAG Negotiation Chatbot** - MongoDB + Vector DB retriever
-- **Vision Food Quality Checker** - YOLO + LLM 
-- **Agentic Voice Bot** - STT→LLM→TTS pipeline
+- **Zero to Production AI Engineer** - Daily production FastAPI/RAG notes from CampusX
+- **Career AI Agent** - Resume + GitHub analysis RAG system (FastAPI + vector DB)
+- **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise deployment
 
-## 🛠️ Tech Stack
+## Shipped Production Projects
+- **RAG Negotiation Chatbot** - Production FastAPI + MongoDB (Bodega internship)
+- **Vision Food Quality Checker** - YOLOv8 + LLM classification pipeline
+- **Agentic Voice Bot** - STT→LLM→TTS full-stack deployment
+- **IntelliSQL** - Text-to-SQL generation (Gemini + Next.js frontend)
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+## 🛠️ Production Tech Stack
 
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**AI/ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=flat&logo=yolo) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
+**AI/ML Production**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=flat&logo=yolo)
 
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-000000?style=flat&logo=railway&logoColor=white)
 
-
-
+**Full-Stack**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF6B?style=flat&logo=supabase&logoColor=white)
