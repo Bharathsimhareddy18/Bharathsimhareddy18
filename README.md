@@ -1,39 +1,53 @@
-<div align="center">
+# Bharath Simha Reddy
 
-# Hi there, I'm Bharath 👋
+Final-Year B.Tech AI/ML | Anantapur, Andhra Pradesh  
+[LinkedIn](https://linkedin.com/in/bharathsimhareddy18) • X @ai_bharath
 
-**Final-Year B.Tech AI/ML | Production AI Engineer**  
-Tirupati, Andhra Pradesh • X `@ai_bharath` • [LinkedIn](https://linkedin.com/in/bharathsimhareddy18)
+---
 
-</div>
+## Currently Building
 
-##  Currently Building
-- **Zero to Production AI Engineer** - Daily production AI Engineer notes from CampusX & Krish Naik
-- **Career AI Agent** - Resume + GitHub analysis RAG system (FastAPI + vector DB)
-- **Self-Hosted 8B Chatbot** - Fine-tuned Llama 3.1 for enterprise deployment
+**Autonomous Paper Trading Agent**  
+GPT-4o-mini tool-calling agent with market analysis, trade execution, and Telegram alerts.  
+Stack: FastAPI, APScheduler, yfinance, Supabase, GPT-4o-mini
 
-## Shipped Production Projects
-- **RAG Negotiation Chatbot** - Production FastAPI + MongoDB (Bodega internship)
-- **Vision Food Quality Checker** - YOLOv8 + LLM classification pipeline
-- **Agentic Voice Bot** - STT→LLM→TTS full-stack deployment
-- **IntelliSQL** - Text-to-SQL generation (Gemini + Next.js frontend)
+**Indian Law Hybrid RAG**  
+BM25 + FAISS hybrid retrieval over legal documents with LLM-powered query routing and eval layer.  
+Stack: FastAPI, FAISS, LangChain
 
-##  Production Tech Stack
+**Zero to Production AI Engineer**  
+Daily production AI engineering notes — systems, deployment, and architecture patterns.
+
+---
+
+## Shipped
+
+**RAG Negotiation Chatbot**  
+Production chatbot deployed during Bodega Delivery internship. Reduced negotiation handling time with retrieval-augmented responses.  
+Stack: FastAPI, MongoDB, FAISS
+
+**Career AI Agent** *(completed, not deployed)*  
+Resume and GitHub analysis RAG system.  
+Stack: FastAPI, FAISS, LangChain
+
+---
+
+## Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Backend & APIs**  
+**Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 
-**AI/ML Production**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-16A34A?style=flat&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**RAG & VectorDB**  
-![FAISS](https://img.shields.io/badge/FAISS-F7931E?style=flat&logo=vector-database&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-5DADE2?style=flat&logo=pinecone&logoColor=white)
+**AI / RAG**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-F7931E?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-**Full-Stack & Deployment**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3FCF6B?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF6B?style=flat&logo=supabase&logoColor=white)
