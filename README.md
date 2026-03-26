@@ -20,7 +20,7 @@ Anantapur, Andhra Pradesh • X @ai_bharath • [LinkedIn](https://linkedin.com/
 ## Shipped
 
 - **RAG Negotiation Chatbot** — Production chatbot deployed during Bodega Delivery internship. Reduced negotiation handling time with retrieval-augmented responses. Stack: FastAPI, MongoDB, FAISS
-- **Career AI Agent** *(completed, not deployed)* — Resume and GitHub analysis RAG system. Stack: FastAPI, FAISS, LangChain
+- **Career AI Agent** — Resume and GitHub analysis RAG system. Stack: FastAPI, FAISS, LangChain
 
 ---
 
