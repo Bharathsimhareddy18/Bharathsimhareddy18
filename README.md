@@ -1,7 +1,11 @@
-# Bharath Simha Reddy
+<div align="center">
 
-Final-Year B.Tech AI/ML | Anantapur, Andhra Pradesh  
-[LinkedIn](https://linkedin.com/in/bharathsimhareddy18) • X @ai_bharath
+# Hi there, I'm Bharath 👋
+
+**Final-Year B.Tech AI/ML | Production AI Engineer**  
+Anantapur, Andhra Pradesh • X @ai_bharath • [LinkedIn](https://linkedin.com/in/bharathsimhareddy18)
+
+</div>
 
 ---
 
