@@ -7,7 +7,6 @@ Anantapur, Andhra Pradesh • X @ai_bharath • [LinkedIn](https://linkedin.com/
 
 </div>
 
----
 
 ## Currently Building
 
